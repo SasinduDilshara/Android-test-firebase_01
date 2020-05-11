@@ -8,38 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:856372938815:android:afa4e8634bf81070e3508a",
+        "mobilesdk_app_id": "1:856372938815:android:f62e19e5608c2c5be3508a",
         "android_client_info": {
           "package_name": "com.acmuom.covid19"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "856372938815-5ah8u1ohvosuume0vtk74s61mcu42a18.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBj3V9XP-Im_Lse9RIfh5u0O1-GpeVO4jQ"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "856372938815-5ah8u1ohvosuume0vtk74s61mcu42a18.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:856372938815:android:5444bcf5d6e7fb49",
-        "android_client_info": {
-          "package_name": "com.example.messagingtest"
         }
       },
       "oauth_client": [
